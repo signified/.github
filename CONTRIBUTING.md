@@ -2,7 +2,7 @@
 
 Contributions to this project are released to the public under the project's open source [license](LICENSE).
 
-This project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project you agree to abide by its terms.
+This project is released with a [code of conduct](CODE_OF_CONDUCT.md). By contributing to this project you agree to abide by its terms.
 
 ## Submitting an Issue
 
