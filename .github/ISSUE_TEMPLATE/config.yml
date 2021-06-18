@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contributing
+    url: https://github.com/signified/.github/blob/main/CONTRIBUTING.md
+    about: Guidelines for contributing to Signified projects.
+  - name: Code of Conduct
+    url: https://github.com/signified/.github/blob/main/CODE_OF_CONDUCT.md
+    about: Contributor Covenant Code of Conduct.
